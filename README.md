@@ -1,4 +1,4 @@
-## C
+
 # C programming concepts
 
 This repository contains C programs and notes that cover the fundamentals of C programming, starting from the basics and progressing up to arrays and basic data structures. It is intended for beginners and intermediate learners who want to build a strong foundation in C.
